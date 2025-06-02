@@ -1,0 +1,6 @@
+C:\Users\naomi\OneDrive\Desktop\Games\Mini_Game\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\naomi\OneDrive\Desktop\Games\Mini_Game\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\naomi\OneDrive\Desktop\Games\Mini_Game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\naomi\OneDrive\Desktop\Games\Mini_Game\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\naomi\OneDrive\Desktop\Games\Mini_Game\obj\Debug\Assembly-CSharp.dll
+C:\Users\naomi\OneDrive\Desktop\Games\Mini_Game\obj\Debug\Assembly-CSharp.pdb
