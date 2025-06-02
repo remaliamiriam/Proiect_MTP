@@ -75,10 +75,10 @@ public class FinalB : MonoBehaviour
         if (attackSound != null)
             audioSource.PlayOneShot(attackSound);
 
-        // Damage player
+       
         PlayerController pc = player.GetComponent<PlayerController>();
         if (pc != null)
-            pc.TakeDamage(2); // Boss lovește mai tare
+            pc.TakeDamage(2); 
 
         Rigidbody playerRb = player.GetComponent<Rigidbody>();
         if (playerRb != null)
@@ -101,7 +101,7 @@ public class FinalB : MonoBehaviour
 
     void Die()
     {
-        Debug.Log("🔥 FINAL BOSS DEFEATED!");
+        Debug.Log("FINAL BOSS DEFEATED!");
 
         if (deathEffect != null)
             Instantiate(deathEffect, transform.position, Quaternion.identity);
